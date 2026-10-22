@@ -1,0 +1,4 @@
+# DEMO PERIOD ONLY: while the site runs on a netlify.app address, keep it out of search engines so
+# it can't compete with the live kidron-capital.com. Delete this file when the real domain moves here.
+/*
+  X-Robots-Tag: noindex, nofollow

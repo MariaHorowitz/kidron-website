@@ -1,0 +1,114 @@
+{
+  "site": {
+    "title": "Kidron Capital",
+    "description": "Kidron Capital invests in untapped and lucrative blue-ocean opportunities in women's health across various indications, modalities, and key geographies.",
+    "lang": "en",
+    "url": "https://kidron-capital.com",
+    "logo": "images/logo.svg",
+    "favicon": "images/favicon-32.png",
+    "favicon_large": "images/favicon-192.png",
+    "apple_touch_icon": "images/apple-touch-icon.png",
+    "credit": { "text": "Design & Strategy by PearlCom", "href": "https://pearlcom.co.il/" }
+  },
+  "theme": {
+    "font": "Outfit",
+    "ink": "#070548",
+    "accent": "#E90055",
+    "accent_dark": "#C00153",
+    "secondary": "#2C2981",
+    "surface": "#E9E9E9",
+    "muted": "#464646"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "id": "top",
+      "nav": "Home",
+      "heading": "Investing in the business\nof women’s health",
+      "background": "images/hero.jpg",
+      "background_alt": "Anula Jayasuriya and Maria Gajda Horowitz, Kidron Capital's founding managing partners",
+      "cta": { "label": "Contact us", "href": "#contact" }
+    },
+    {
+      "type": "statement",
+      "id": "about",
+      "nav": "About",
+      "text": "Kidron Capital invests in untapped and lucrative “blue ocean” opportunities in women's health across various indications, modalities, and key geographies."
+    },
+    {
+      "type": "cards",
+      "id": "pillars",
+      "nav": "Pillars",
+      "title": "Our Investment Pillars",
+      "items": [
+        { "icon": "images/pillar-holistic.png", "title": "Holistic\nApproach", "text": "Technologies that address unmet medical needs in female patients, across diseases from female specific to general health conditions that affect females differently or disproportionately" },
+        { "icon": "images/pillar-clinical.png", "title": "Clinical and\nScientific Bar", "text": "Focus on technologies grounded in scientific evidence, meeting regulatory standards, and protected by patents" },
+        { "icon": "images/pillar-modalities.png", "title": "Multiple Modalities\n& Business Models", "text": "Medical devices, diagnostics, therapeutics, digital health, healthcare services, and consumer solutions" },
+        { "icon": "images/pillar-geographies.png", "title": "Presence in\nKey Geographies", "text": "Spanning US, Europe, and Israel" }
+      ]
+    },
+    {
+      "type": "people",
+      "id": "team",
+      "nav": "Team",
+      "title": "Our team",
+      "items": [
+        {
+          "name": "Anula Jayasuriya",
+          "credentials": "MD, PhD, MPhil, MBA",
+          "role": "Founding Managing Partner",
+          "location": "USA",
+          "photo": "images/anula.png",
+          "photo_hover": "images/anula-hover.png",
+          "bio": [
+            "Founding Managing Partner of four investment funds: EXXclaim Capital, Evolvence India Life Science Fund I and II, and Kidron Capital.",
+            "Exited three Women’s Health Investments. Co-founder of Artemis Women’s Health Foundation, and Vice Chair of WHAM. Former Vice President at Roche Pharmaceuticals.",
+            "Board member of several private Women’s Health companies, and two publicly listed entities."
+          ]
+        },
+        {
+          "name": "Maria Gajda Horowitz",
+          "credentials": "LLM",
+          "role": "Founding Managing Partner",
+          "location": "Israel, Europe",
+          "photo": "images/maria.png",
+          "photo_hover": "images/maria-hover.png",
+          "bio": [
+            "Experienced in deal-making, venture capital investments, fund formation, and fundraising. Active in VC investments since 2011. Involved with prestigious funds in fund formations in Europe and Israel. Led negotiations for investment agreements, asset acquisitions in healthcare, and a successful IPO in Europe. Board member of several medical device companies."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "carousel",
+      "id": "portfolio",
+      "nav": "Portfolio",
+      "title": "Kidron’s portfolio",
+      "items": [
+        { "tag": "Different between\nwomen and men", "logo": "images/portfolio-portal.png", "logo_alt": "Portal", "area": "Chemotherapy access via vascular port", "text": ["Shifting the paradigm in chemotherapy via a novel, vascular port, accomplishing both ease of placement and aesthetic sensibilities of female patients."], "investors": "Notable investors: MedVenture Health" },
+        { "tag": "Unique to women", "logo": "images/portfolio-may-health.png", "logo_alt": "May Health", "area": "PCOS", "text": ["Developing a breakthrough technology to restore ovulation in women with PCOS, a condition affecting 10% of women of child-bearing age."], "investors": "Notable co-investors: Sofinnova Partners, Bpifrance, Trill Impact", "link": "https://mayhealth.com/" },
+        { "tag": "Predominantly\naffecting women", "logo": "images/portfolio-cardiorenal.png", "logo_alt": "CardioRenal Systems", "area": "AKI prevention in Cardiac Surgery", "text": ["Addressing the increased susceptibility of women developing acute kidney injury (AKI) following cardiac surgery. The technology is on the market and generating significant sales in Saudi Arabia and Europe."], "investors": "Notable investors: Abiomed (by Johnson & Johnson)", "link": "https://cardiorenalsystems.com/" },
+        { "tag": "Different between\nwomen and men", "logo": "images/portfolio-beyond-medicine.png", "logo_alt": "Beyond Medicine", "area": "Longevity", "text": ["Leveraging clinically demonstrated insights on age related mitochondrial dysfunction to rejuvenate skin.", "**Collaborations** with high-end longevity clinics in Switzerland and the Nordics."] },
+        { "tag": "Unique to women", "logo": "images/portfolio-nua-surgical.png", "logo_alt": "Nua Surgical", "area": "Maternal Health", "text": ["Advancing maternal health via a novel self-retaining surgical retractor specifically designed to address the unique challenges of C-sections, which are the most common surgeries in the world, particularly for women with high BMI."], "investors": "Notable co-investors: EQT Life Sciences, Texas Medical Center Venture Fund", "link": "https://nuasurgical.com/" }
+      ]
+    },
+    {
+      "type": "contact",
+      "id": "contact",
+      "nav": "Contact",
+      "title": "Contact us",
+      "intro": "Please feel free to contact us anytime at info@kidron-capital.com",
+      "email": "info@kidron-capital.com",
+      "form": {
+        "name": "contact",
+        "submit": "Contact us",
+        "fields": [
+          { "name": "name", "label": "Full name", "type": "text", "required": true },
+          { "name": "email", "label": "Email", "type": "email", "required": true },
+          { "name": "message", "label": "Message", "type": "textarea", "required": true }
+        ],
+        "thank_you": { "title": "Thank you", "text": "We received your message and will get back to you soon." }
+      }
+    }
+  ]
+}
