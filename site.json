@@ -1,114 +1,496 @@
 {
   "site": {
     "title": "Kidron Capital",
-    "description": "Kidron Capital invests in untapped and lucrative blue-ocean opportunities in women's health across various indications, modalities, and key geographies.",
+    "description": "Kidron Capital is a specialist early-stage healthcare venture firm investing in women's health and sex-specific biology across devices, diagnostics, digital health, care delivery, and therapeutics.",
     "lang": "en",
     "url": "https://kidron-capital.com",
     "logo": "images/logo.svg",
     "favicon": "images/favicon-32.png",
     "favicon_large": "images/favicon-192.png",
     "apple_touch_icon": "images/apple-touch-icon.png",
-    "credit": { "text": "Design & Strategy by PearlCom", "href": "https://pearlcom.co.il/" }
+    "header_cta": {
+      "label": "Fund II materials",
+      "href": "#contact"
+    },
+    "og_image": "images/social-share.png",
+    "footer_text": [
+      "Investing in women's health",
+      "US · Europe · Israel"
+    ],
+    "social": [
+      {
+        "label": "info@kidron-capital.com",
+        "href": "mailto:info@kidron-capital.com"
+      },
+      {
+        "label": "Kidron LinkedIn",
+        "href": "https://www.linkedin.com/company/kidron-capital-assets-lp/"
+      },
+      {
+        "label": "Anula LinkedIn",
+        "href": "https://www.linkedin.com/in/anulajayasuriya/"
+      },
+      {
+        "label": "Maria LinkedIn",
+        "href": "https://www.linkedin.com/in/maria-gajda-horowitz/"
+      }
+    ],
+    "raise_bar": {
+      "text": "**Now raising Fund II**",
+      "cta": {
+        "label": "Request materials",
+        "href": "#contact"
+      }
+    }
   },
   "theme": {
     "font": "Outfit",
-    "ink": "#070548",
-    "accent": "#E90055",
-    "accent_dark": "#C00153",
-    "secondary": "#2C2981",
-    "surface": "#E9E9E9",
-    "muted": "#464646"
+    "ink": "#2D0018",
+    "accent": "#C4185A",
+    "accent_dark": "#6B0030",
+    "secondary": "#6B0030",
+    "surface": "#FDF0F5",
+    "muted": "#6B3050",
+    "skin": [
+      "bold",
+      "light",
+      "airy"
+    ],
+    "motion": true,
+    "font_axis": "100..900",
+    "signature": true
   },
   "sections": [
     {
       "type": "hero",
+      "layout": "split",
       "id": "top",
-      "nav": "Home",
-      "heading": "Investing in the business\nof women’s health",
-      "background": "images/hero.jpg",
-      "background_alt": "Anula Jayasuriya and Maria Gajda Horowitz, Kidron Capital's founding managing partners",
-      "cta": { "label": "Contact us", "href": "#contact" }
+      "eyebrow": "Now Raising Fund II",
+      "heading": "A specialist venture firm investing in ==women's health== and sex-specific biology",
+      "text": "Early-stage healthcare investing where sex-specific biology, unmet clinical need and inefficient capital allocation create overlooked opportunities: devices, diagnostics, digital health, care delivery and therapeutics.",
+      "cta": {
+        "label": "Request Fund II materials",
+        "href": "#contact"
+      },
+      "tagline": "Specialist focus  ·  Clinical rigor  ·  Cross-border access",
+      "image": "images/hero-duo.jpg",
+      "image_alt": "Dr. Anula Jayasuriya and Maria Gajda Horowitz, Founding Managing Partners",
+      "tone": "white",
+      "decor": true,
+      "type_eyebrow": true,
+      "cta2": {
+        "label": "Fund I track record",
+        "href": "#track-record"
+      }
     },
     {
-      "type": "statement",
+      "type": "strip",
+      "items": [
+        {
+          "title": "Sex-Specific Biology",
+          "text": "Female biology as investment lens"
+        },
+        {
+          "title": "Clinical Rigor",
+          "text": "Science, regulation, adoption"
+        },
+        {
+          "title": "Cross-Border Access",
+          "text": "US · Europe · Israel"
+        },
+        {
+          "title": "Specialist Focus",
+          "text": "Women's health, broadly defined"
+        },
+        {
+          "title": "Strategic Relevance",
+          "text": "Pharma & MedTech pathways"
+        }
+      ],
+      "tone": "white"
+    },
+    {
+      "type": "text",
       "id": "about",
-      "nav": "About",
-      "text": "Kidron Capital invests in untapped and lucrative “blue ocean” opportunities in women's health across various indications, modalities, and key geographies."
+      "tone": "white",
+      "eyebrow": "The opportunity",
+      "title": "Why women's health. ==Why now.==",
+      "text": [
+        "Women's health is moving beyond reproductive health and consumer wellness.",
+        "It now reaches higher-acuity medicine: therapeutics, precision devices, diagnostics and specialty care. And strategic acquirers are looking for pipeline renewal where female biology matters."
+      ],
+      "quote": "\"Kidron Capital was built to invest into this inflection point with specialist focus, disciplined healthcare diligence, and access across the US, Europe, and Israel.\""
+    },
+    {
+      "type": "text",
+      "id": "why-kidron",
+      "tone": "white",
+      "eyebrow": "Our distinction",
+      "title": "Why ==Kidron==",
+      "lead": "Specialist focus, healthcare investing experience, and cross-border access — in one platform.",
+      "left": [
+        "We believe women's health requires a dedicated investment approach. The category spans complex clinical, regulatory, and commercial questions that are often not well served by generalist frameworks.",
+        "What distinguishes Kidron is not only our focus, but how we invest. We combine domain specialization with relationship-driven sourcing across key healthcare ecosystems — giving us access to differentiated opportunities across multiple modalities and stages of maturity.",
+        "Fund I has helped validate this approach. As we build Fund II, we are applying those lessons with greater ownership concentration, stronger follow-on capacity, and a continued focus on companies with clear value-creation pathways and strong return potential."
+      ],
+      "regions": [
+        {
+          "code": "US",
+          "label": "Silicon Valley · Boston"
+        },
+        {
+          "code": "EU",
+          "label": "Europe"
+        },
+        {
+          "code": "IL",
+          "label": "Israel · Tel Aviv"
+        }
+      ],
+      "aside": [
+        {
+          "tag": "Our edge",
+          "title": "==Specialist== focus",
+          "text": "A dedicated women's health lens — not a generalist framework. We go deep where others stay broad."
+        },
+        {
+          "tag": "Our underwriting",
+          "title": "==Biology-first== Underwriting",
+          "text": "We start with the clinical question — where does female biology create a differentiated product, stronger adoption logic, or overlooked market opportunity."
+        },
+        {
+          "tag": "Our reach",
+          "title": "==Cross-border== access",
+          "text": "Active networks across US, Europe, and Israel — three of the world's most dynamic healthcare ecosystems."
+        }
+      ],
+      "nav": "Why Kidron"
     },
     {
       "type": "cards",
-      "id": "pillars",
-      "nav": "Pillars",
-      "title": "Our Investment Pillars",
+      "layout": "tiles",
+      "id": "approach",
+      "nav": "Approach",
+      "tone": "white",
+      "eyebrow": "How we invest",
+      "title": "Our investment approach",
+      "intro": "We invest with a specialist lens across the full spectrum of women's health.",
       "items": [
-        { "icon": "images/pillar-holistic.png", "title": "Holistic\nApproach", "text": "Technologies that address unmet medical needs in female patients, across diseases from female specific to general health conditions that affect females differently or disproportionately" },
-        { "icon": "images/pillar-clinical.png", "title": "Clinical and\nScientific Bar", "text": "Focus on technologies grounded in scientific evidence, meeting regulatory standards, and protected by patents" },
-        { "icon": "images/pillar-modalities.png", "title": "Multiple Modalities\n& Business Models", "text": "Medical devices, diagnostics, therapeutics, digital health, healthcare services, and consumer solutions" },
-        { "icon": "images/pillar-geographies.png", "title": "Presence in\nKey Geographies", "text": "Spanning US, Europe, and Israel" }
+        {
+          "num": "01",
+          "title": "A disciplined view of women's health",
+          "text": "We invest across conditions unique to women, diseases that affect women differently, and health needs that disproportionately impact women — broad enough to capture major opportunities, but disciplined enough to remain clinically coherent."
+        },
+        {
+          "num": "02",
+          "title": "Biology-first underwriting",
+          "text": "We start with the underlying biology: where female physiology changes disease risk, diagnosis, progression, treatment response, or care delivery. This allows us to identify women's health opportunities that generalist healthcare investors may overlook."
+        },
+        {
+          "num": "03",
+          "title": "Clinical and commercial rigor",
+          "text": "We evaluate each opportunity through evidence, mechanism, regulatory pathway, intellectual property, reimbursement logic, adoption barriers, and strategic exit relevance — not through thematic enthusiasm alone."
+        },
+        {
+          "num": "04",
+          "title": "Multiple modalities, one specialist lens",
+          "text": "We invest across therapeutics, medical devices, diagnostics, digital health, healthcare services, and consumer health — with a consistent focus on scalable value creation."
+        },
+        {
+          "num": "05",
+          "title": "Cross-border reach",
+          "text": "With deep networks across the US, Europe, and Israel, we are positioned to source differentiated opportunities and support companies across major healthcare markets."
+        }
       ]
     },
     {
-      "type": "people",
-      "id": "team",
-      "nav": "Team",
-      "title": "Our team",
-      "items": [
+      "type": "compare",
+      "id": "track-record",
+      "nav": "Track record",
+      "tone": "white",
+      "eyebrow": "Track record",
+      "title": "==Fund I== to ==Fund II==",
+      "intro": "Clinically grounded underwriting · Active support through key value-creation milestones",
+      "columns": [
         {
-          "name": "Anula Jayasuriya",
-          "credentials": "MD, PhD, MPhil, MBA",
-          "role": "Founding Managing Partner",
-          "location": "USA",
-          "photo": "images/anula.png",
-          "photo_hover": "images/anula-hover.png",
-          "bio": [
-            "Founding Managing Partner of four investment funds: EXXclaim Capital, Evolvence India Life Science Fund I and II, and Kidron Capital.",
-            "Exited three Women’s Health Investments. Co-founder of Artemis Women’s Health Foundation, and Vice Chair of WHAM. Former Vice President at Roche Pharmaceuticals.",
-            "Board member of several private Women’s Health companies, and two publicly listed entities."
+          "label": "Validated",
+          "title": "Fund ==I==",
+          "points": [
+            "Six active portfolio companies across women's health and related areas of sex-differentiated care",
+            "Early validation through clinical, regulatory, and commercial milestones",
+            "Access to high-quality syndicates and strategic co-investors",
+            "Foundation for Fund II's larger ownership and follow-on strategy"
           ]
         },
         {
-          "name": "Maria Gajda Horowitz",
-          "credentials": "LLM",
-          "role": "Founding Managing Partner",
-          "location": "Israel, Europe",
-          "photo": "images/maria.png",
-          "photo_hover": "images/maria-hover.png",
-          "bio": [
-            "Experienced in deal-making, venture capital investments, fund formation, and fundraising. Active in VC investments since 2011. Involved with prestigious funds in fund formations in Europe and Israel. Led negotiations for investment agreements, asset acquisitions in healthcare, and a successful IPO in Europe. Board member of several medical device companies."
+          "label": "Now raising",
+          "title": "Fund ==II==",
+          "points": [
+            "Greater ownership concentration",
+            "Stronger follow-on capacity",
+            "A continued focus on companies with clear value-creation pathways and strong return potential",
+            "Target size: {{Maria: Fund II target size}}"
           ]
         }
       ]
     },
     {
       "type": "carousel",
+      "layout": "grid",
+      "filter": true,
       "id": "portfolio",
       "nav": "Portfolio",
-      "title": "Kidron’s portfolio",
+      "tone": "white",
+      "eyebrow": "Selected investments",
+      "title": "Where our thesis ==comes to life==",
+      "intro": "We invest in companies addressing clinically important, commercially significant opportunities across women's health.",
       "items": [
-        { "tag": "Different between\nwomen and men", "logo": "images/portfolio-portal.png", "logo_alt": "Portal", "area": "Chemotherapy access via vascular port", "text": ["Shifting the paradigm in chemotherapy via a novel, vascular port, accomplishing both ease of placement and aesthetic sensibilities of female patients."], "investors": "Notable investors: MedVenture Health" },
-        { "tag": "Unique to women", "logo": "images/portfolio-may-health.png", "logo_alt": "May Health", "area": "PCOS", "text": ["Developing a breakthrough technology to restore ovulation in women with PCOS, a condition affecting 10% of women of child-bearing age."], "investors": "Notable co-investors: Sofinnova Partners, Bpifrance, Trill Impact", "link": "https://mayhealth.com/" },
-        { "tag": "Predominantly\naffecting women", "logo": "images/portfolio-cardiorenal.png", "logo_alt": "CardioRenal Systems", "area": "AKI prevention in Cardiac Surgery", "text": ["Addressing the increased susceptibility of women developing acute kidney injury (AKI) following cardiac surgery. The technology is on the market and generating significant sales in Saudi Arabia and Europe."], "investors": "Notable investors: Abiomed (by Johnson & Johnson)", "link": "https://cardiorenalsystems.com/" },
-        { "tag": "Different between\nwomen and men", "logo": "images/portfolio-beyond-medicine.png", "logo_alt": "Beyond Medicine", "area": "Longevity", "text": ["Leveraging clinically demonstrated insights on age related mitochondrial dysfunction to rejuvenate skin.", "**Collaborations** with high-end longevity clinics in Switzerland and the Nordics."] },
-        { "tag": "Unique to women", "logo": "images/portfolio-nua-surgical.png", "logo_alt": "Nua Surgical", "area": "Maternal Health", "text": ["Advancing maternal health via a novel self-retaining surgical retractor specifically designed to address the unique challenges of C-sections, which are the most common surgeries in the world, particularly for women with high BMI."], "investors": "Notable co-investors: EQT Life Sciences, Texas Medical Center Venture Fund", "link": "https://nuasurgical.com/" }
+        {
+          "category": "Sex-based differences in disease",
+          "name": "Portal",
+          "area": "Improving chemotherapy access through better vascular port design",
+          "text": [
+            "Rethinking vascular access in chemotherapy with a novel port designed to improve ease of placement while better addressing the needs of female patients."
+          ],
+          "investors": "MedVenture Health"
+        },
+        {
+          "category": "Conditions unique to women",
+          "name": "May Health",
+          "area": "Restoring ovulation in women with PCOS",
+          "text": [
+            "A breakthrough approach aimed at restoring ovulation in women with PCOS, one of the most common endocrine conditions affecting women of reproductive age."
+          ],
+          "investors": "Sofinnova, Bpifrance, Trill Impact",
+          "link": "https://mayhealth.com/"
+        },
+        {
+          "category": "Disproportionate impact on women",
+          "name": "CardioRenal Systems",
+          "area": "Reducing AKI risk after cardiac surgery",
+          "text": [
+            "The only clinically validated solution addressing elevated AKI risk in women undergoing cardiac surgery — commercially active in Saudi Arabia and Europe."
+          ],
+          "investors": "Abiomed by J&J",
+          "link": "https://cardiorenalsystems.com/"
+        },
+        {
+          "category": "Sex-based aging & longevity",
+          "name": "Beyond Medicine — developer of Rebel Cell",
+          "area": "Targeting mitochondrial dysfunction in skin aging",
+          "text": [
+            "Leveraging clinically demonstrated insights into age-related mitochondrial dysfunction for new approaches in skin rejuvenation and longevity."
+          ],
+          "investors": "High-end longevity clinics, Switzerland",
+          "link": "https://rebelcellskin.com/"
+        },
+        {
+          "category": "Maternal health",
+          "name": "Nua Surgical",
+          "area": "Advancing maternal health in C-section care",
+          "text": [
+            "A novel self-retaining surgical retractor designed for C-sections, addressing the procedural needs of one of the most common surgeries in the world."
+          ],
+          "investors": "EQT Life Sciences, TX Medical Center",
+          "link": "https://nuasurgical.com/"
+        },
+        {
+          "category": "Conditions unique to women",
+          "name": "PregnanTech",
+          "area": "Preventing preterm birth with LIONESS™",
+          "text": [
+            "Developing LIONESS™ — a device to prevent preterm birth by supporting the cervix through a minimally invasive outpatient procedure."
+          ],
+          "investors": "Tri Ventures",
+          "link": "https://www.pregnantech.com/"
+        }
+      ],
+      "filter_counts": true
+    },
+    {
+      "type": "strip",
+      "id": "co-investors",
+      "tone": "white",
+      "title": "Alongside our portfolio companies",
+      "items": [
+        {
+          "title": "MedVenture Health"
+        },
+        {
+          "title": "Sofinnova"
+        },
+        {
+          "title": "Bpifrance"
+        },
+        {
+          "title": "Trill Impact"
+        },
+        {
+          "title": "Abiomed (J&J)"
+        },
+        {
+          "title": "EQT Life Sciences"
+        },
+        {
+          "title": "TX Medical Center"
+        },
+        {
+          "title": "Tri Ventures"
+        }
+      ]
+    },
+    {
+      "type": "people",
+      "layout": "cards",
+      "id": "team",
+      "nav": "Team",
+      "tone": "white",
+      "eyebrow": "Leadership",
+      "title": "General Partners",
+      "intro": [
+        "A cross-border GP team built for women's health investing",
+        "Kidron is led by two healthcare investors with presence across Silicon Valley, Boston, Tel Aviv, Europe, and Israel. Together, the GPs combine women's health specialization, clinical and scientific diligence, venture investing, fund formation, transaction experience, and active portfolio governance."
+      ],
+      "outro": "Together, the GPs combine scientific diligence, venture judgment, cross-border sourcing, and active portfolio support across the women's health ecosystem.",
+      "items": [
+        {
+          "name": "Dr. Anula Jayasuriya",
+          "credentials": "MD, PhD, MPhil, MBA",
+          "role": "Founding Managing Partner",
+          "location": "United States · Silicon Valley, Boston",
+          "photo": "images/anula-portrait.jpg",
+          "bio": [
+            "Physician-investor with decades of experience across healthcare, life sciences, and venture capital. Founding Managing Partner of EXXclaim Capital and Evolvence India Life Science Fund I and II. Former VP at Roche Pharmaceuticals. Led investments including nVision Medical (acquired by Boston Scientific). Co-founded Artemis Women's Health Foundation. Vice Chair of WHAM.",
+            "**Board:** Jaguar Health NASDAQ, Lineage Cell Therapeutics, Aarvik, Solera Bio, Nua Surgical."
+          ]
+        },
+        {
+          "name": "Maria Gajda Horowitz",
+          "credentials": "LLM",
+          "role": "Founding Managing Partner",
+          "location": "Israel & Europe · Tel Aviv",
+          "photo": "images/maria-portrait.jpg",
+          "bio": [
+            "15+ years in healthcare venture: portfolio construction, capital strategy, and investor relations. Active in VC investments since 2011, working across Europe and Israel on fund structuring, investment negotiations, healthcare asset acquisitions, and public market transactions.",
+            "**Board:** Beyond Medicine Inc., CardioRenal Systems Inc. **Observer:** Portal Access."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "nav": "FAQ",
+      "tone": "white",
+      "eyebrow": "For investors",
+      "title": "Questions LPs ask",
+      "items": [
+        {
+          "q": "What does Fund II invest in?",
+          "a": "Early-stage companies across therapeutics, medical devices, diagnostics, digital health, healthcare services and consumer health, where female biology changes risk, diagnosis, treatment or care."
+        },
+        {
+          "q": "Where do you invest?",
+          "a": "Across the US, Europe and Israel, through the partners' networks in Silicon Valley, Boston, Tel Aviv and Europe."
+        },
+        {
+          "q": "What is the target size and timing?",
+          "a": "{{Maria: Fund II target size, first close and final close timing}}"
+        },
+        {
+          "q": "What is the minimum commitment?",
+          "a": "{{Maria: minimum commitment}}"
+        },
+        {
+          "q": "How is the fund structured?",
+          "a": "{{Maria: vehicle, domicile and terms summary}}"
+        },
+        {
+          "q": "How do you report to investors?",
+          "a": "{{Maria: reporting cadence and format}}"
+        }
       ]
     },
     {
       "type": "contact",
       "id": "contact",
       "nav": "Contact",
-      "title": "Contact us",
-      "intro": "Please feel free to contact us anytime at info@kidron-capital.com",
+      "title": "Request the ==Fund II== materials",
+      "intro": "For investors who see women's health as a broad healthcare opportunity where specialist underwriting finds overlooked value. Leave your details and we will be in touch.",
       "email": "info@kidron-capital.com",
       "form": {
-        "name": "contact",
-        "submit": "Contact us",
+        "name": "fund-ii-materials",
+        "submit": "Request materials",
         "fields": [
-          { "name": "name", "label": "Full name", "type": "text", "required": true },
-          { "name": "email", "label": "Email", "type": "email", "required": true },
-          { "name": "message", "label": "Message", "type": "textarea", "required": true }
+          {
+            "name": "name",
+            "label": "Full name",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "email",
+            "label": "Email",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "institution",
+            "label": "Institution",
+            "type": "text"
+          },
+          {
+            "name": "investor_type",
+            "label": "Investor type",
+            "type": "select",
+            "options": [
+              "Family office",
+              "Fund of funds",
+              "Institutional investor",
+              "Corporate / strategic",
+              "Private investor",
+              "Other"
+            ]
+          },
+          {
+            "name": "commitment",
+            "label": "Indicative commitment (optional)",
+            "type": "text"
+          },
+          {
+            "name": "message",
+            "label": "Message (optional)",
+            "type": "textarea"
+          },
+          {
+            "name": "eligible",
+            "label": "I am a qualified/eligible investor. {{Maria/counsel: confirm wording}}",
+            "type": "checkbox"
+          },
+          {
+            "name": "campaign",
+            "type": "hidden",
+            "label": "campaign",
+            "from_param": "c"
+          }
         ],
-        "thank_you": { "title": "Thank you", "text": "We received your message and will get back to you soon." }
-      }
+        "thank_you": {
+          "title": "Thank you",
+          "text": "We received your message and will get back to you soon."
+        }
+      },
+      "layout": "plain",
+      "tone": "white",
+      "eyebrow": "Fund II"
+    },
+    {
+      "type": "quote",
+      "tone": "white",
+      "text": "Investing in the business of women's health"
+    },
+    {
+      "type": "notice",
+      "text": "**Important notice:** This website is provided for informational purposes only and does not constitute investment advice, an offer to sell, or a solicitation of an offer to buy any securities. Any offering of fund interests will be made only to qualified/eligible investors by means of confidential offering documents and in accordance with applicable law. The information herein is believed to be reliable but is not guaranteed and should not be relied upon as a promise or representation of future performance. Past performance is not indicative of future results."
     }
   ]
 }
