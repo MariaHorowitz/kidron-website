@@ -57,7 +57,7 @@
       "airy"
     ],
     "motion": true,
-    "font_axis": "100..900",
+    "font_axis": "350..900",
     "signature": false
   },
   "sections": [
@@ -106,19 +106,19 @@
       "intro": "The businesses behind our investment thesis.",
       "items": [
         {
-          "category": "Designed with women in mind",
+          "category": "Design for women",
           "name": "Portal",
           "text": [
-            "**FDA-cleared**",
             "A compact chemotherapy port designed with female patients in mind, combining simplified placement with attention to their aesthetic concerns."
           ],
           "investors": "MedVenture Health",
           "logo": "images/portfolio-portal.png",
           "logo_alt": "Portal",
-          "link": "https://portal-cath.com/"
+          "link": "https://portal-cath.com/",
+          "area": "FDA-cleared"
         },
         {
-          "category": "Conditions unique to women",
+          "category": "Women-specific care",
           "name": "May Health",
           "text": [
             "Developing technology to restore ovulation in women with PCOS."
@@ -129,7 +129,7 @@
           "logo_alt": "May Health"
         },
         {
-          "category": "Sex-related differences in kidney risk",
+          "category": "Kidney health",
           "name": "CardioRenal Systems",
           "text": [
             "RenalGuard is designed to reduce acute kidney injury around cardiac procedures, with a randomized cardiac-surgery study demonstrating lower AKI rates. Sex-related differences in kidney risk and its assessment make female patients an important part of Kidron’s investment rationale."
@@ -140,7 +140,7 @@
           "logo_alt": "CardioRenal Systems"
         },
         {
-          "category": "Aesthetic recovery & skin health",
+          "category": "Skin recovery",
           "name": "Beyond Medicine · Rebel Cell",
           "text": [
             "Beyond Medicine’s flagship product, Rebel Cell, is skincare for recovery after aesthetic surgery and treatments. Kidron’s investment reflects the post-procedure care needs of women undergoing these procedures."
@@ -163,7 +163,7 @@
           "logo_alt": "Nua Surgical"
         },
         {
-          "category": "Conditions unique to women",
+          "category": "Women-specific care",
           "name": "PregnanTech",
           "text": [
             "Developing LIONESS™, a device designed to help prevent preterm birth by supporting the cervix."
@@ -174,7 +174,7 @@
           "logo_alt": "PregnanTech"
         }
       ],
-      "filter_counts": true
+      "filter_counts": false
     },
     {
       "type": "strip",
