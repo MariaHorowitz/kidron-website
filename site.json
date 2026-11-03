@@ -91,7 +91,7 @@
       "title": "A broader view of ==women's health==",
       "text": [
         "Women’s health has traditionally been viewed as an investment category centered on reproductive health and wellness.",
-        "Kidron looks beyond wellness and products with lighter regulatory requirements to clinically grounded healthcare, including medical devices, diagnostics and therapeutics. We invest in conditions unique to women, those that affect women differently, and those that disproportionately affect women."
+        "Kidron applies scientific and commercial discipline across a broader healthcare spectrum, from medical devices, diagnostics and therapeutics to care delivery and consumer health. We invest in conditions unique to women, those that affect women differently, and those that disproportionately affect women."
       ]
     },
     {
@@ -132,9 +132,9 @@
           "category": "Sex-related differences in kidney risk",
           "name": "CardioRenal Systems",
           "text": [
-            "RenalGuard has demonstrated reduced acute kidney injury rates in a randomized cardiac-surgery study. Our investment lens includes sex-related differences in kidney risk and its assessment in female patients."
+            "RenalGuard is designed to reduce acute kidney injury around cardiac procedures, with a randomized cardiac-surgery study demonstrating lower AKI rates. Sex-related differences in kidney risk and its assessment make female patients an important part of Kidron’s investment rationale."
           ],
-          "investors": "Abiomed by J&J",
+          "investors": "Abiomed (J&J)",
           "link": "https://cardiorenalsystems.com/",
           "logo": "images/portfolio-cardiorenal.svg",
           "logo_alt": "CardioRenal Systems"
@@ -143,7 +143,7 @@
           "category": "Aesthetic recovery & skin health",
           "name": "Beyond Medicine · Rebel Cell",
           "text": [
-            "Rebel Cell, Beyond Medicine’s flagship skincare product, supports skin recovery after aesthetic surgery and other aesthetic treatments, including the post-procedure care needs of female patients."
+            "Beyond Medicine’s flagship product, Rebel Cell, is skincare for recovery after aesthetic surgery and treatments. Kidron’s investment reflects the post-procedure care needs of women undergoing these procedures."
           ],
           "investors": "Collaborations: longevity clinics, Switzerland",
           "link": "https://rebelcellskin.com/",
@@ -180,7 +180,7 @@
       "type": "strip",
       "id": "co-investors",
       "tone": "white",
-      "title": "Alongside our portfolio companies",
+      "title": "Selected co-investors",
       "items": [
         {
           "title": "Sofinnova"
@@ -217,7 +217,7 @@
       "lead": "We invest in the best businesses — grounded in science, built by teams we know, and supported by a clear commercial plan.",
       "left": [
         "We invest early, after taking the time to understand the science and get to know the people behind the business.",
-        "We require board representation for every investment. In our experience, this depth of preparation helps build the foundation for future funding, and ultimate success of the company."
+        "We require board representation for every investment. In our experience, this depth of preparation helps build the foundation for future funding and the company’s ultimate success."
       ],
       "aside": [
         {
@@ -296,7 +296,7 @@
           "location": "Israel & Europe · Tel Aviv",
           "photo": "images/maria-portrait.jpg",
           "bio": [
-            "Maria brings experience in building funds, negotiating investments and working with portfolio companies. Active in venture capital since 2011, she has worked across Europe and Israel on fund formation, healthcare asset acquisitions and public market transactions.",
+            "Maria has been active in venture capital since 2011. Her experience across Europe and Israel spans fund formation, investment negotiations, healthcare asset acquisitions and public market transactions.",
             "At Kidron, her work spans portfolio construction, capital strategy and investor relations.",
             "**Board:** Beyond Medicine Inc., CardioRenal Systems Inc. **Observer:** Portal Access."
           ]
