@@ -88,9 +88,10 @@
       "id": "about",
       "tone": "white",
       "eyebrow": "The opportunity",
-      "title": "The breadth of ==women's health==",
+      "title": "A broader view of ==women's health==",
       "text": [
-        "Our investment lens spans conditions unique to women, those that affect women differently, and those that disproportionately affect women. It connects reproductive health with wider medical needs across a woman’s life."
+        "Women’s health has traditionally been viewed as an investment category centered on reproductive health and wellness.",
+        "Kidron looks beyond wellness and products with lighter regulatory requirements to clinically grounded healthcare, including medical devices, diagnostics and therapeutics. We invest in conditions unique to women, those that affect women differently, and those that disproportionately affect women."
       ]
     },
     {
@@ -271,9 +272,9 @@
       "nav": "Team",
       "tone": "white",
       "eyebrow": "Leadership",
-      "title": "General Partners",
+      "title": "Our founding partners",
       "intro": [
-        "Kidron is led by Dr. Anula Jayasuriya and Maria Gajda Horowitz, bringing together healthcare science, venture investing, fund formation and transaction experience."
+        "Anula and Maria bring complementary experience to women’s health investing."
       ],
       "items": [
         {
@@ -283,7 +284,8 @@
           "location": "United States · Silicon Valley, Boston",
           "photo": "images/anula-portrait.jpg",
           "bio": [
-            "Physician and healthcare investor. Founding Managing Partner of EXXclaim Capital and Evolvence India Life Science Fund I and II. Former VP at Roche Pharmaceuticals. Led investments including nVision Medical, acquired by Boston Scientific. Co-founded Artemis Women’s Health Foundation and serves as Vice Chair of WHAM.",
+            "Anula brings a physician’s understanding of science to venture investing. Her experience includes a former VP role at Roche Pharmaceuticals and founding managing partner roles at EXXclaim Capital and Evolvence India Life Science Fund I and II.",
+            "She led investments including nVision Medical, acquired by Boston Scientific. She also co-founded Artemis Women’s Health Foundation and serves as Vice Chair of WHAM.",
             "**Board:** Jaguar Health NASDAQ, Lineage Cell Therapeutics, Aarvik, Solera Bio, Nua Surgical."
           ]
         },
@@ -294,7 +296,8 @@
           "location": "Israel & Europe · Tel Aviv",
           "photo": "images/maria-portrait.jpg",
           "bio": [
-            "Active in venture capital since 2011, with experience across Europe and Israel in fund formation, investment negotiations, healthcare asset acquisitions and public market transactions. At Kidron, her work spans portfolio construction, capital strategy and investor relations.",
+            "Maria brings experience in building funds, negotiating investments and working with portfolio companies. Active in venture capital since 2011, she has worked across Europe and Israel on fund formation, healthcare asset acquisitions and public market transactions.",
+            "At Kidron, her work spans portfolio construction, capital strategy and investor relations.",
             "**Board:** Beyond Medicine Inc., CardioRenal Systems Inc. **Observer:** Portal Access."
           ]
         }
