@@ -249,14 +249,15 @@
         },
         {
           "category": "Sex-based aging & longevity",
-          "name": "Beyond Medicine",
+          "name": "Beyond Medicine · Rebel Cell",
           "text": [
-            "Developer of Rebel Cell, targeting age-related mitochondrial dysfunction in skin rejuvenation."
+            "Rebel Cell is Beyond Medicine’s flagship skincare product, designed to support skin recovery after aesthetic treatments."
           ],
           "investors": "High-end longevity clinics, Switzerland",
           "link": "https://rebelcellskin.com/",
           "logo": "images/portfolio-beyond-medicine.svg",
-          "logo_alt": "Beyond Medicine"
+          "logo_alt": "Beyond Medicine",
+          "link_label": "Rebel Cell website ↗"
         },
         {
           "category": "Maternal health",
