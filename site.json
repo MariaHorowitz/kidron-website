@@ -67,7 +67,7 @@
       "id": "top",
       "eyebrow": "Now Raising Fund II",
       "heading": "Specialist venture capital for ==women's health==",
-      "text": "Early-stage healthcare investing where sex-specific biology, unmet clinical need and inefficient capital allocation create overlooked opportunities: devices, diagnostics, digital health, care delivery and therapeutics.",
+      "text": "We back early-stage healthcare businesses addressing unmet needs in women’s health — with attention to the science, the people and the path to market.",
       "cta": {
         "label": "Get in touch",
         "href": "#contact"
@@ -84,123 +84,13 @@
       }
     },
     {
-      "type": "strip",
-      "items": [
-        {
-          "title": "Sex-Specific Biology",
-          "text": "Female biology as investment lens"
-        },
-        {
-          "title": "Clinical Rigor",
-          "text": "Science, regulation, adoption"
-        },
-        {
-          "title": "Cross-Border Access",
-          "text": "US · Europe · Israel"
-        },
-        {
-          "title": "Specialist Focus",
-          "text": "Women's health, broadly defined"
-        },
-        {
-          "title": "Strategic Relevance",
-          "text": "Pharma & MedTech pathways"
-        }
-      ],
-      "tone": "white"
-    },
-    {
       "type": "text",
       "id": "about",
       "tone": "white",
       "eyebrow": "The opportunity",
-      "title": "Why women's health. ==Why now.==",
+      "title": "The breadth of ==women's health==",
       "text": [
-        "Women's health is moving beyond reproductive health and consumer wellness.",
-        "It now reaches higher-acuity medicine: therapeutics, precision devices, diagnostics and specialty care. And strategic acquirers are looking for pipeline renewal where female biology matters."
-      ],
-      "quote": "\"Kidron Capital was built to invest into this inflection point with specialist focus, disciplined healthcare diligence, and access across the US, Europe, and Israel.\""
-    },
-    {
-      "type": "text",
-      "id": "why-kidron",
-      "tone": "white",
-      "eyebrow": "Our distinction",
-      "title": "Why ==Kidron==",
-      "lead": "We invest in the best businesses — grounded in science, built by teams we know, and supported by a clear commercial plan.",
-      "left": [
-        "Science is our starting point. We work to understand the clinical need and underlying biology, then take the time to know the founders, leadership team, board and co-investors — including how they work together.",
-        "We look for a business plan that connects financial needs to clear development milestones. We examine how the company will reach each milestone, who will pay for its product, the reimbursement pathway and potential acquirers.",
-        "We invest early when we have confidence that the team understands both the science and the business it is building. We take board seats as a condition of investment. In our experience, this depth of preparation helps build the foundation for future funding, and ultimate success of the company."
-      ],
-      "regions": [
-        {
-          "code": "US",
-          "label": "Silicon Valley · Boston"
-        },
-        {
-          "code": "EU",
-          "label": "Europe"
-        },
-        {
-          "code": "IL",
-          "label": "Israel · Tel Aviv"
-        }
-      ],
-      "aside": [
-        {
-          "tag": "Our foundation",
-          "title": "==Science== we understand",
-          "text": "A deep understanding of the science and clinical need underpins every investment decision."
-        },
-        {
-          "tag": "Our relationships",
-          "title": "==Teams== we know",
-          "text": "We get to know the founders, team, board and co-investors closely, with particular attention to team dynamics."
-        },
-        {
-          "tag": "Our investment discipline",
-          "title": "A ==business== we can back",
-          "text": "Capital needs, development milestones, reimbursement, paying customers and potential acquirers — considered together before we invest."
-        }
-      ],
-      "nav": "Why Kidron"
-    },
-    {
-      "type": "cards",
-      "layout": "tiles",
-      "id": "approach",
-      "nav": "Approach",
-      "tone": "white",
-      "eyebrow": "How we invest",
-      "title": "Our investment approach",
-      "intro": "We invest with a specialist lens across the full spectrum of women's health.",
-      "items": [
-        {
-          "num": "01",
-          "title": "A disciplined view of women's health",
-          "text": "We invest across conditions unique to women, diseases that affect women differently, and health needs that disproportionately impact women — broad enough to capture major opportunities, but disciplined enough to remain clinically coherent."
-        },
-        {
-          "num": "02",
-          "title": "Biology-first underwriting",
-          "text": "We start with the underlying biology: where female physiology changes disease risk, diagnosis, progression, treatment response, or care delivery. This allows us to identify women's health opportunities that generalist healthcare investors may overlook."
-        },
-        {
-          "num": "03",
-          "title": "Clinical and commercial rigor",
-          "text": "We evaluate each opportunity through evidence, mechanism, regulatory pathway, intellectual property, reimbursement logic, adoption barriers, and strategic exit relevance — not through thematic enthusiasm alone."
-        },
-        {
-          "num": "04",
-          "title": "Multiple modalities, one specialist lens",
-          "text": "We invest across therapeutics, medical devices, diagnostics, digital health, healthcare services, and consumer health — with a consistent focus on scalable value creation."
-        },
-        {
-          "num": "05",
-          "title": "Cross-border reach",
-          "text": "With deep networks across the US, Europe, and Israel, we are positioned to source differentiated opportunities and support companies across major healthcare markets."
-        }
+        "Our investment lens spans conditions unique to women, those that affect women differently, and those that disproportionately affect women. It connects reproductive health with wider medical needs across a woman’s life."
       ]
     },
     {
@@ -211,15 +101,15 @@
       "nav": "Portfolio",
       "tone": "white",
       "eyebrow": "Selected investments",
-      "title": "Where our thesis ==comes to life==",
-      "intro": "We invest in companies addressing clinically important, commercially significant opportunities across women's health.",
+      "title": "Our ==portfolio==",
+      "intro": "The businesses behind our investment thesis.",
       "items": [
         {
-          "category": "Sex-based differences in disease",
+          "category": "Designed with women in mind",
           "name": "Portal",
           "text": [
             "**FDA-cleared**",
-            "A vascular port designed to improve chemotherapy access and ease of placement."
+            "A compact chemotherapy port designed with female patients in mind, combining simplified placement with attention to their aesthetic concerns."
           ],
           "investors": "MedVenture Health",
           "logo": "images/portfolio-portal.png",
@@ -238,10 +128,10 @@
           "logo_alt": "May Health"
         },
         {
-          "category": "Disproportionate impact on women",
+          "category": "Sex-related differences in kidney risk",
           "name": "CardioRenal Systems",
           "text": [
-            "Technology designed to reduce the risk of acute kidney injury following cardiac surgery."
+            "RenalGuard has demonstrated reduced acute kidney injury rates in a randomized cardiac-surgery study. Our investment lens includes sex-related differences in kidney risk and its assessment in female patients."
           ],
           "investors": "Abiomed by J&J",
           "link": "https://cardiorenalsystems.com/",
@@ -249,12 +139,12 @@
           "logo_alt": "CardioRenal Systems"
         },
         {
-          "category": "Sex-based aging & longevity",
+          "category": "Aesthetic recovery & skin health",
           "name": "Beyond Medicine · Rebel Cell",
           "text": [
-            "Rebel Cell is Beyond Medicine’s flagship skincare product, designed to support skin recovery after aesthetic treatments."
+            "Rebel Cell, Beyond Medicine’s flagship skincare product, supports skin recovery after aesthetic surgery and other aesthetic treatments, including the post-procedure care needs of female patients."
           ],
-          "investors": "High-end longevity clinics, Switzerland",
+          "investors": "Collaborations: longevity clinics, Switzerland",
           "link": "https://rebelcellskin.com/",
           "logo": "images/portfolio-beyond-medicine.svg",
           "logo_alt": "Beyond Medicine",
@@ -318,6 +208,63 @@
       ]
     },
     {
+      "type": "text",
+      "id": "why-kidron",
+      "tone": "white",
+      "eyebrow": "Our distinction",
+      "title": "Why ==Kidron==",
+      "lead": "We invest in the best businesses — grounded in science, built by teams we know, and supported by a clear commercial plan.",
+      "left": [
+        "We invest early, after taking the time to understand the science and get to know the people behind the business.",
+        "We require board representation for every investment. In our experience, this depth of preparation helps build the foundation for future funding, and ultimate success of the company."
+      ],
+      "aside": [
+        {
+          "tag": "Our foundation",
+          "title": "==Science== we understand",
+          "text": "We evaluate the clinical need, underlying biology, evidence and regulatory pathway."
+        },
+        {
+          "tag": "Our relationships",
+          "title": "==Teams== we know",
+          "text": "We get to know the founders, leadership team, board and co-investors closely, including how they work together."
+        },
+        {
+          "tag": "Our investment discipline",
+          "title": "A ==business== we can back",
+          "text": "We examine how capital needs connect to development milestones, how each milestone will be reached, who will pay for the product, reimbursement and potential acquirers."
+        }
+      ],
+      "nav": "Why Kidron"
+    },
+    {
+      "type": "cards",
+      "layout": "tiles",
+      "id": "approach",
+      "nav": "Approach",
+      "tone": "white",
+      "eyebrow": "How we invest",
+      "title": "Where we invest",
+      "intro": "Early-stage healthcare companies across the US, Europe and Israel.",
+      "items": [
+        {
+          "num": "01",
+          "title": "Women’s health, broadly defined",
+          "text": "Conditions unique to women, diseases that affect women differently, and health needs that disproportionately affect women."
+        },
+        {
+          "num": "02",
+          "title": "Across healthcare",
+          "text": "Medical devices, diagnostics, therapeutics, digital health, healthcare services and consumer health."
+        },
+        {
+          "num": "03",
+          "title": "US · Europe · Israel",
+          "text": "Sourcing opportunities across these healthcare markets through the partners’ networks."
+        }
+      ]
+    },
+    {
       "type": "people",
       "layout": "cards",
       "id": "team",
@@ -326,10 +273,8 @@
       "eyebrow": "Leadership",
       "title": "General Partners",
       "intro": [
-        "A cross-border GP team built for women's health investing",
-        "Kidron is led by two healthcare investors with presence across Silicon Valley, Boston, Tel Aviv, Europe, and Israel. Together, the GPs combine women's health specialization, clinical and scientific diligence, venture investing, fund formation, transaction experience, and active portfolio governance."
+        "Kidron is led by Dr. Anula Jayasuriya and Maria Gajda Horowitz, bringing together healthcare science, venture investing, fund formation and transaction experience."
       ],
-      "outro": "Together, the GPs combine scientific diligence, venture judgment, cross-border sourcing, and active portfolio support across the women's health ecosystem.",
       "items": [
         {
           "name": "Dr. Anula Jayasuriya",
@@ -338,7 +283,7 @@
           "location": "United States · Silicon Valley, Boston",
           "photo": "images/anula-portrait.jpg",
           "bio": [
-            "Physician-investor with decades of experience across healthcare, life sciences, and venture capital. Founding Managing Partner of EXXclaim Capital and Evolvence India Life Science Fund I and II. Former VP at Roche Pharmaceuticals. Led investments including nVision Medical (acquired by Boston Scientific). Co-founded Artemis Women's Health Foundation. Vice Chair of WHAM.",
+            "Physician and healthcare investor. Founding Managing Partner of EXXclaim Capital and Evolvence India Life Science Fund I and II. Former VP at Roche Pharmaceuticals. Led investments including nVision Medical, acquired by Boston Scientific. Co-founded Artemis Women’s Health Foundation and serves as Vice Chair of WHAM.",
             "**Board:** Jaguar Health NASDAQ, Lineage Cell Therapeutics, Aarvik, Solera Bio, Nua Surgical."
           ]
         },
@@ -349,7 +294,7 @@
           "location": "Israel & Europe · Tel Aviv",
           "photo": "images/maria-portrait.jpg",
           "bio": [
-            "15+ years in healthcare venture: portfolio construction, capital strategy, and investor relations. Active in VC investments since 2011, working across Europe and Israel on fund structuring, investment negotiations, healthcare asset acquisitions, and public market transactions.",
+            "Active in venture capital since 2011, with experience across Europe and Israel in fund formation, investment negotiations, healthcare asset acquisitions and public market transactions. At Kidron, her work spans portfolio construction, capital strategy and investor relations.",
             "**Board:** Beyond Medicine Inc., CardioRenal Systems Inc. **Observer:** Portal Access."
           ]
         }
