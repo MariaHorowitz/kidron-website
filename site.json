@@ -127,10 +127,11 @@
       "tone": "white",
       "eyebrow": "Our distinction",
       "title": "Why ==Kidron==",
-      "lead": "Specialist focus, healthcare investing experience, and cross-border access — in one platform.",
+      "lead": "We invest in the best businesses — grounded in science, built by teams we know, and supported by a clear commercial plan.",
       "left": [
-        "We believe women's health requires a dedicated investment approach. The category spans complex clinical, regulatory, and commercial questions that are often not well served by generalist frameworks.",
-        "What distinguishes Kidron is not only our focus, but how we invest. We combine domain specialization with relationship-driven sourcing across key healthcare ecosystems — giving us access to differentiated opportunities across multiple modalities and stages of maturity."
+        "Science is our starting point. We work to understand the clinical need and underlying biology, then take the time to know the founders, leadership team, board and co-investors — including how they work together.",
+        "We look for a business plan that connects financial needs to clear development milestones. We examine how the company will reach each milestone, who will pay for its product, the reimbursement pathway and potential acquirers.",
+        "We invest early when we have confidence that the team understands both the science and the business it is building. We take board seats as a condition of investment. In our experience, this depth of preparation helps build the foundation for future funding."
       ],
       "regions": [
         {
@@ -148,19 +149,19 @@
       ],
       "aside": [
         {
-          "tag": "Our edge",
-          "title": "==Specialist== focus",
-          "text": "A dedicated women's health lens — not a generalist framework. We go deep where others stay broad."
+          "tag": "Our foundation",
+          "title": "==Science== we understand",
+          "text": "A deep understanding of the science and clinical need underpins every investment decision."
         },
         {
-          "tag": "Our underwriting",
-          "title": "==Biology-first== Underwriting",
-          "text": "We start with the clinical question — where does female biology create a differentiated product, stronger adoption logic, or overlooked market opportunity."
+          "tag": "Our relationships",
+          "title": "==Teams== we know",
+          "text": "We get to know the founders, team, board and co-investors closely, with particular attention to team dynamics."
         },
         {
-          "tag": "Our reach",
-          "title": "==Cross-border== access",
-          "text": "Active networks across US, Europe, and Israel — three of the world's most dynamic healthcare ecosystems."
+          "tag": "Our investment discipline",
+          "title": "A ==business== we can back",
+          "text": "Capital needs, development milestones, reimbursement, paying customers and potential acquirers — considered together before we invest."
         }
       ],
       "nav": "Why Kidron"
