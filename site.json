@@ -9,7 +9,7 @@
     "favicon_large": "images/favicon-192.png",
     "apple_touch_icon": "images/apple-touch-icon.png",
     "header_cta": {
-      "label": "Fund II materials",
+      "label": "Get in touch",
       "href": "#contact"
     },
     "og_image": "images/social-share.png",
@@ -38,7 +38,7 @@
     "raise_bar": {
       "text": "**Now raising Fund II**",
       "cta": {
-        "label": "Request materials",
+        "label": "Get in touch",
         "href": "#contact"
       }
     }
@@ -57,7 +57,8 @@
       "airy"
     ],
     "motion": true,
-    "font_axis": "100..900"
+    "font_axis": "100..900",
+    "signature": false
   },
   "sections": [
     {
@@ -65,10 +66,10 @@
       "layout": "split",
       "id": "top",
       "eyebrow": "Now Raising Fund II",
-      "heading": "A specialist venture firm investing in ==women's health== and sex-specific biology",
+      "heading": "Investing in ==women's health== and sex-specific biology",
       "text": "Early-stage healthcare investing where sex-specific biology, unmet clinical need and inefficient capital allocation create overlooked opportunities: devices, diagnostics, digital health, care delivery and therapeutics.",
       "cta": {
-        "label": "Request Fund II materials",
+        "label": "Get in touch",
         "href": "#contact"
       },
       "tagline": "Specialist focus  ·  Clinical rigor  ·  Cross-border access",
@@ -78,8 +79,8 @@
       "decor": true,
       "type_eyebrow": true,
       "cta2": {
-        "label": "Fund I track record",
-        "href": "#track-record"
+        "label": "Portfolio",
+        "href": "#portfolio"
       }
     },
     {
@@ -129,8 +130,7 @@
       "lead": "Specialist focus, healthcare investing experience, and cross-border access — in one platform.",
       "left": [
         "We believe women's health requires a dedicated investment approach. The category spans complex clinical, regulatory, and commercial questions that are often not well served by generalist frameworks.",
-        "What distinguishes Kidron is not only our focus, but how we invest. We combine domain specialization with relationship-driven sourcing across key healthcare ecosystems — giving us access to differentiated opportunities across multiple modalities and stages of maturity.",
-        "Fund I has helped validate this approach. As we build Fund II, we are applying those lessons with greater ownership concentration, stronger follow-on capacity, and a continued focus on companies with clear value-creation pathways and strong return potential."
+        "What distinguishes Kidron is not only our focus, but how we invest. We combine domain specialization with relationship-driven sourcing across key healthcare ecosystems — giving us access to differentiated opportunities across multiple modalities and stages of maturity."
       ],
       "regions": [
         {
@@ -203,37 +203,6 @@
       ]
     },
     {
-      "type": "compare",
-      "id": "track-record",
-      "nav": "Track record",
-      "tone": "white",
-      "eyebrow": "Track record",
-      "title": "==Fund I== to ==Fund II==",
-      "intro": "Clinically grounded underwriting · Active support through key value-creation milestones",
-      "columns": [
-        {
-          "label": "Validated",
-          "title": "Fund ==I==",
-          "points": [
-            "Six active portfolio companies across women's health and related areas of sex-differentiated care",
-            "Early validation through clinical, regulatory, and commercial milestones",
-            "Access to high-quality syndicates and strategic co-investors",
-            "Foundation for Fund II's larger ownership and follow-on strategy"
-          ]
-        },
-        {
-          "label": "Now raising",
-          "title": "Fund ==II==",
-          "points": [
-            "Greater ownership concentration",
-            "Stronger follow-on capacity",
-            "A continued focus on companies with clear value-creation pathways and strong return potential",
-            "Target size: {{Maria: Fund II target size}}"
-          ]
-        }
-      ]
-    },
-    {
       "type": "carousel",
       "layout": "grid",
       "filter": true,
@@ -249,9 +218,12 @@
           "name": "Portal",
           "area": "Improving chemotherapy access through better vascular port design",
           "text": [
-            "Rethinking vascular access in chemotherapy with a novel port designed to improve ease of placement while better addressing the needs of female patients."
+            "Rethinking vascular access in chemotherapy with a novel port designed to improve ease of placement while better addressing the needs of female patients.",
+            "{{Maria: exact FDA-clearance wording and Portal website address}}"
           ],
-          "investors": "MedVenture Health"
+          "investors": "MedVenture Health",
+          "logo": "images/portfolio-portal.png",
+          "logo_alt": "Portal"
         },
         {
           "category": "Conditions unique to women",
@@ -261,7 +233,9 @@
             "A breakthrough approach aimed at restoring ovulation in women with PCOS, one of the most common endocrine conditions affecting women of reproductive age."
           ],
           "investors": "Sofinnova, Bpifrance, Trill Impact",
-          "link": "https://mayhealth.com/"
+          "link": "https://mayhealth.com/",
+          "logo": "images/portfolio-may-health.svg",
+          "logo_alt": "May Health"
         },
         {
           "category": "Disproportionate impact on women",
@@ -271,7 +245,9 @@
             "The only clinically validated solution addressing elevated AKI risk in women undergoing cardiac surgery — commercially active in Saudi Arabia and Europe."
           ],
           "investors": "Abiomed by J&J",
-          "link": "https://cardiorenalsystems.com/"
+          "link": "https://cardiorenalsystems.com/",
+          "logo": "images/portfolio-cardiorenal.svg",
+          "logo_alt": "CardioRenal Systems"
         },
         {
           "category": "Sex-based aging & longevity",
@@ -281,7 +257,9 @@
             "Leveraging clinically demonstrated insights into age-related mitochondrial dysfunction for new approaches in skin rejuvenation and longevity."
           ],
           "investors": "High-end longevity clinics, Switzerland",
-          "link": "https://rebelcellskin.com/"
+          "link": "https://rebelcellskin.com/",
+          "logo": "images/portfolio-beyond-medicine.svg",
+          "logo_alt": "Beyond Medicine — developer of Rebel Cell"
         },
         {
           "category": "Maternal health",
@@ -291,7 +269,9 @@
             "A novel self-retaining surgical retractor designed for C-sections, addressing the procedural needs of one of the most common surgeries in the world."
           ],
           "investors": "EQT Life Sciences, TX Medical Center",
-          "link": "https://nuasurgical.com/"
+          "link": "https://nuasurgical.com/",
+          "logo": "images/portfolio-nua-surgical.png",
+          "logo_alt": "Nua Surgical"
         },
         {
           "category": "Conditions unique to women",
@@ -313,9 +293,6 @@
       "title": "Alongside our portfolio companies",
       "items": [
         {
-          "title": "MedVenture Health"
-        },
-        {
           "title": "Sofinnova"
         },
         {
@@ -335,6 +312,9 @@
         },
         {
           "title": "Tri Ventures"
+        },
+        {
+          "title": "MedVenture Health"
         }
       ]
     },
@@ -377,49 +357,15 @@
       ]
     },
     {
-      "type": "faq",
-      "id": "faq",
-      "nav": "FAQ",
-      "tone": "white",
-      "eyebrow": "For investors",
-      "title": "Questions LPs ask",
-      "items": [
-        {
-          "q": "What does Fund II invest in?",
-          "a": "Early-stage companies across therapeutics, medical devices, diagnostics, digital health, healthcare services and consumer health, where female biology changes risk, diagnosis, treatment or care."
-        },
-        {
-          "q": "Where do you invest?",
-          "a": "Across the US, Europe and Israel, through the partners' networks in Silicon Valley, Boston, Tel Aviv and Europe."
-        },
-        {
-          "q": "What is the target size and timing?",
-          "a": "{{Maria: Fund II target size, first close and final close timing}}"
-        },
-        {
-          "q": "What is the minimum commitment?",
-          "a": "{{Maria: minimum commitment}}"
-        },
-        {
-          "q": "How is the fund structured?",
-          "a": "{{Maria: vehicle, domicile and terms summary}}"
-        },
-        {
-          "q": "How do you report to investors?",
-          "a": "{{Maria: reporting cadence and format}}"
-        }
-      ]
-    },
-    {
       "type": "contact",
       "id": "contact",
       "nav": "Contact",
-      "title": "Request the ==Fund II== materials",
-      "intro": "For investors who see women's health as a broad healthcare opportunity where specialist underwriting finds overlooked value. Leave your details and we will be in touch.",
+      "title": "Get in touch",
+      "intro": "Whether you're an investor interested in Kidron, a founder building in women's health, or someone who would like to connect, we'd love to hear from you.",
       "email": "info@kidron-capital.com",
       "form": {
         "name": "fund-ii-materials",
-        "submit": "Request materials",
+        "submit": "Get in touch",
         "fields": [
           {
             "name": "name",
@@ -435,36 +381,13 @@
           },
           {
             "name": "institution",
-            "label": "Institution",
-            "type": "text"
-          },
-          {
-            "name": "investor_type",
-            "label": "Investor type",
-            "type": "select",
-            "options": [
-              "Family office",
-              "Fund of funds",
-              "Institutional investor",
-              "Corporate / strategic",
-              "Private investor",
-              "Other"
-            ]
-          },
-          {
-            "name": "commitment",
-            "label": "Indicative commitment (optional)",
+            "label": "Organisation",
             "type": "text"
           },
           {
             "name": "message",
-            "label": "Message (optional)",
+            "label": "Message",
             "type": "textarea"
-          },
-          {
-            "name": "eligible",
-            "label": "I am a qualified/eligible investor. {{Maria/counsel: confirm wording}}",
-            "type": "checkbox"
           },
           {
             "name": "campaign",
@@ -480,7 +403,7 @@
       },
       "layout": "plain",
       "tone": "white",
-      "eyebrow": "Fund II"
+      "eyebrow": "Contact"
     },
     {
       "type": "quote",
