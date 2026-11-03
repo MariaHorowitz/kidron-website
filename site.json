@@ -66,7 +66,7 @@
       "layout": "split",
       "id": "top",
       "eyebrow": "Now Raising Fund II",
-      "heading": "Investing in ==women's health== and sex-specific biology",
+      "heading": "Specialist venture capital for ==women's health==",
       "text": "Early-stage healthcare investing where sex-specific biology, unmet clinical need and inefficient capital allocation create overlooked opportunities: devices, diagnostics, digital health, care delivery and therapeutics.",
       "cta": {
         "label": "Get in touch",
@@ -216,21 +216,20 @@
         {
           "category": "Sex-based differences in disease",
           "name": "Portal",
-          "area": "Improving chemotherapy access through better vascular port design",
           "text": [
-            "Rethinking vascular access in chemotherapy with a novel port designed to improve ease of placement while better addressing the needs of female patients.",
-            "{{Maria: exact FDA-clearance wording and Portal website address}}"
+            "**FDA-cleared**",
+            "A vascular port designed to improve chemotherapy access and ease of placement."
           ],
           "investors": "MedVenture Health",
           "logo": "images/portfolio-portal.png",
-          "logo_alt": "Portal"
+          "logo_alt": "Portal",
+          "link": "https://portal-cath.com/"
         },
         {
           "category": "Conditions unique to women",
           "name": "May Health",
-          "area": "Restoring ovulation in women with PCOS",
           "text": [
-            "A breakthrough approach aimed at restoring ovulation in women with PCOS, one of the most common endocrine conditions affecting women of reproductive age."
+            "Developing technology to restore ovulation in women with PCOS."
           ],
           "investors": "Sofinnova, Bpifrance, Trill Impact",
           "link": "https://mayhealth.com/",
@@ -240,9 +239,8 @@
         {
           "category": "Disproportionate impact on women",
           "name": "CardioRenal Systems",
-          "area": "Reducing AKI risk after cardiac surgery",
           "text": [
-            "The only clinically validated solution addressing elevated AKI risk in women undergoing cardiac surgery — commercially active in Saudi Arabia and Europe."
+            "Technology designed to reduce the risk of acute kidney injury following cardiac surgery."
           ],
           "investors": "Abiomed by J&J",
           "link": "https://cardiorenalsystems.com/",
@@ -251,22 +249,20 @@
         },
         {
           "category": "Sex-based aging & longevity",
-          "name": "Beyond Medicine — developer of Rebel Cell",
-          "area": "Targeting mitochondrial dysfunction in skin aging",
+          "name": "Beyond Medicine",
           "text": [
-            "Leveraging clinically demonstrated insights into age-related mitochondrial dysfunction for new approaches in skin rejuvenation and longevity."
+            "Developer of Rebel Cell, targeting age-related mitochondrial dysfunction in skin rejuvenation."
           ],
           "investors": "High-end longevity clinics, Switzerland",
           "link": "https://rebelcellskin.com/",
           "logo": "images/portfolio-beyond-medicine.svg",
-          "logo_alt": "Beyond Medicine — developer of Rebel Cell"
+          "logo_alt": "Beyond Medicine"
         },
         {
           "category": "Maternal health",
           "name": "Nua Surgical",
-          "area": "Advancing maternal health in C-section care",
           "text": [
-            "A novel self-retaining surgical retractor designed for C-sections, addressing the procedural needs of one of the most common surgeries in the world."
+            "Developing a self-retaining surgical retractor designed for C-sections."
           ],
           "investors": "EQT Life Sciences, TX Medical Center",
           "link": "https://nuasurgical.com/",
@@ -276,12 +272,13 @@
         {
           "category": "Conditions unique to women",
           "name": "PregnanTech",
-          "area": "Preventing preterm birth with LIONESS™",
           "text": [
-            "Developing LIONESS™ — a device to prevent preterm birth by supporting the cervix through a minimally invasive outpatient procedure."
+            "Developing LIONESS™, a device designed to help prevent preterm birth by supporting the cervix."
           ],
           "investors": "Tri Ventures",
-          "link": "https://www.pregnantech.com/"
+          "link": "https://www.pregnantech.com/",
+          "logo": "images/portfolio-pregnantech.svg",
+          "logo_alt": "PregnanTech"
         }
       ],
       "filter_counts": true
@@ -361,7 +358,7 @@
       "id": "contact",
       "nav": "Contact",
       "title": "Get in touch",
-      "intro": "Whether you're an investor interested in Kidron, a founder building in women's health, or someone who would like to connect, we'd love to hear from you.",
+      "intro": "Interested in our investment approach, building a company, or exploring a collaboration? Get in touch with the Kidron team.",
       "email": "info@kidron-capital.com",
       "form": {
         "name": "fund-ii-materials",
