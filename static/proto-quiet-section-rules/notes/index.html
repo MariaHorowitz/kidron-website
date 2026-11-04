@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Quiet section rules — implementation notes</title><style>body{font:16px/1.7 system-ui,sans-serif;max-width:850px;margin:40px auto;padding:0 20px;color:#2d0018}a{color:#a72e59}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}</style></head><body><p><a href="../">View the prototype</a> · <a href="quiet-section-rules.css">CSS reference</a> · <a href="README.md">Notes source</a></p><pre># Kidron: Quiet section rules — approved design direction
+
+Maria chose “Quiet section rules” for the full website on 4 November 2026.
+
+## Review
+
+This is a shareable design prototype, branched from design-v9 at d423300.
+Open ../index.html to review the complete website. This draft PR must not be merged.
+The maintained template and production website have not been changed.
+
+## Requested template work for Krystof
+
+- Replace the floating hero circles and large decorative section circles with small stationary pink markers next to the main section labels.
+- Use subtle horizontal rules within the content width to introduce sections and separate investment principles, portfolio entries and partner profiles. Keep lines out of paragraphs and photographs.
+- Use the Quiet section rules treatment throughout, including Why Kidron. No connected timeline is selected.
+- Keep white surfaces, the existing typeface, pink accents, portfolio content, company links, co-investors and legal notice.
+- Use original color for the opening photograph and both partner portraits. These source images already have their blue backgrounds. Anula is Watson 0023, Maria is Watson 0079.
+- In this preview the large section titles are capped at 4.6rem, section spacing is tightened, tile numbers are quieter, and the page uses static rendering rather than typed labels or entrance animations.
+- Preserve the mobile menu, anchor navigation, portfolio filters, contact form and existing reduced-motion behavior.
+- Retain the agreed Portal description beginning “A novel chemotherapy port…”, committed in content repo d28b637.
+
+## Implementation reference
+
+quiet-section-rules.css is an additive CSS reference scoped to body.preview-quiet.
+../index.html is the generated review page, not a template source change. It includes its own generated theme/ and images/ folders. The CSS is included both alongside the page and in notes/. The review page adds the CSS link and preview-quiet body class, removes the empty hero decor element and data-motion attribute, and marks the local page noindex.
+
+The prototype is packaged under static/proto-quiet-section-rules/ in the content repository. The maintained template files, site.json and netlify.toml are unchanged from design-v9. Adopt through the maintained template and the existing design-v9 / PR 4 preview flow. Production remains subject to Maria’s separate “approve publish” instruction.
+
+## Portfolio content in this prototype
+
+- Women-specific conditions: May Health, Nua Surgical, PregnanTech.
+- Women-predominant markets: Beyond Medicine / RebelCell, with skin longevity and mitochondrial health positioning.
+- Differentiated care for women: Portal and CardioRenal Systems.
+
+The latest content from d423300 is included, with Portal described as a novel chemotherapy port and its FDA-cleared milestone retained.
+</pre></body></html>
