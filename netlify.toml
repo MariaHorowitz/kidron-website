@@ -2,8 +2,11 @@
 # The layout comes from the Metanoia site template, fetched at build time from its "stable"
 # branch, so a template update reaches this site on the next build without touching this repo.
 # If a build fails, Netlify keeps the last working version live.
+# PREVIEW BRANCH (30 Oct 2026): builds from the template test branch "next", which has the new layouts.
+# Before merging into main, the layouts go to the template's "stable" branch (Krystof approves) and this
+# line goes back to "--branch stable".
 [build]
-  command = "rm -rf .template && git clone --depth 1 --branch stable https://github.com/krystof-metanoia-ops/metanoia-site-template.git .template && node .template/build.mjs --content . --out dist"
+  command = "rm -rf .template && git clone --depth 1 --branch next https://github.com/krystof-metanoia-ops/metanoia-site-template.git .template && node .template/build.mjs --content . --out dist"
   publish = "dist"
 
 [build.environment]
