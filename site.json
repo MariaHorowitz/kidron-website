@@ -103,10 +103,55 @@
       "tone": "white",
       "eyebrow": "Selected investments",
       "title": "Our ==portfolio==",
-      "intro": "The businesses behind our investment thesis.",
+      "intro": "Our portfolio reflects three investment lenses: conditions unique to women, markets serving predominantly women, and healthcare solutions with a distinct rationale for female patients.",
       "items": [
         {
-          "category": "Design for women",
+          "category": "Women-specific conditions",
+          "name": "May Health",
+          "text": [
+            "Developing technology to restore ovulation in women with PCOS."
+          ],
+          "investors": "Sofinnova, Bpifrance, Trill Impact",
+          "link": "https://mayhealth.com/",
+          "logo": "images/portfolio-may-health.svg",
+          "logo_alt": "May Health"
+        },
+        {
+          "category": "Women-specific conditions",
+          "name": "Nua Surgical",
+          "text": [
+            "Developing a self-retaining surgical retractor designed for C-sections."
+          ],
+          "investors": "EQT Life Sciences, TX Medical Center",
+          "link": "https://nuasurgical.com/",
+          "logo": "images/portfolio-nua-surgical.png",
+          "logo_alt": "Nua Surgical"
+        },
+        {
+          "category": "Women-specific conditions",
+          "name": "PregnanTech",
+          "text": [
+            "Developing LIONESS™, a device designed to help prevent preterm birth by supporting the cervix."
+          ],
+          "investors": "Tri Ventures",
+          "link": "https://www.pregnantech.com/",
+          "logo": "images/portfolio-pregnantech.svg",
+          "logo_alt": "PregnanTech"
+        },
+        {
+          "category": "Women-predominant markets",
+          "name": "Beyond Medicine · RebelCell",
+          "text": [
+            "Beyond Medicine focuses on skin longevity and mitochondrial health. Its flagship brand, RebelCell, applies mitochondrial science to skincare designed to support recovery after aesthetic procedures."
+          ],
+          "investors": "Collaborations: longevity clinics, Switzerland",
+          "link": "https://rebelcellskin.com/",
+          "logo": "images/portfolio-beyond-medicine.svg",
+          "logo_alt": "Beyond Medicine",
+          "link_label": "RebelCell website ↗"
+        },
+        {
+          "category": "Differentiated care for women",
           "name": "Portal",
           "text": [
             "A novel chemotherapy port designed with female patients in mind, combining simplified placement with attention to their aesthetic concerns."
@@ -118,18 +163,7 @@
           "area": "FDA-cleared"
         },
         {
-          "category": "Women-specific care",
-          "name": "May Health",
-          "text": [
-            "Developing technology to restore ovulation in women with PCOS."
-          ],
-          "investors": "Sofinnova, Bpifrance, Trill Impact",
-          "link": "https://mayhealth.com/",
-          "logo": "images/portfolio-may-health.svg",
-          "logo_alt": "May Health"
-        },
-        {
-          "category": "Kidney health",
+          "category": "Differentiated care for women",
           "name": "CardioRenal Systems",
           "text": [
             "RenalGuard is designed to reduce acute kidney injury around cardiac procedures, with a randomized cardiac-surgery study demonstrating lower AKI rates. Sex-related differences in kidney risk and its assessment make female patients an important part of Kidron’s investment rationale."
@@ -138,40 +172,6 @@
           "link": "https://cardiorenalsystems.com/",
           "logo": "images/portfolio-cardiorenal.svg",
           "logo_alt": "CardioRenal Systems"
-        },
-        {
-          "category": "Skin recovery",
-          "name": "Beyond Medicine · Rebel Cell",
-          "text": [
-            "Beyond Medicine’s flagship product, Rebel Cell, is skincare for recovery after aesthetic surgery and treatments. Kidron’s investment reflects the post-procedure care needs of women undergoing these procedures."
-          ],
-          "investors": "Collaborations: longevity clinics, Switzerland",
-          "link": "https://rebelcellskin.com/",
-          "logo": "images/portfolio-beyond-medicine.svg",
-          "logo_alt": "Beyond Medicine",
-          "link_label": "Rebel Cell website ↗"
-        },
-        {
-          "category": "Maternal health",
-          "name": "Nua Surgical",
-          "text": [
-            "Developing a self-retaining surgical retractor designed for C-sections."
-          ],
-          "investors": "EQT Life Sciences, TX Medical Center",
-          "link": "https://nuasurgical.com/",
-          "logo": "images/portfolio-nua-surgical.png",
-          "logo_alt": "Nua Surgical"
-        },
-        {
-          "category": "Women-specific care",
-          "name": "PregnanTech",
-          "text": [
-            "Developing LIONESS™, a device designed to help prevent preterm birth by supporting the cervix."
-          ],
-          "investors": "Tri Ventures",
-          "link": "https://www.pregnantech.com/",
-          "logo": "images/portfolio-pregnantech.svg",
-          "logo_alt": "PregnanTech"
         }
       ],
       "filter_counts": false
