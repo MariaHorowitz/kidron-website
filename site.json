@@ -100,7 +100,7 @@
       "filter": true,
       "id": "portfolio",
       "nav": "Portfolio",
-      "tone": "white",
+      "tone": "dark",
       "eyebrow": "Selected investments",
       "title": "Our ==portfolio==",
       "intro": "Our portfolio reflects three investment lenses: conditions unique to women, markets serving predominantly women, and healthcare solutions with a distinct rationale for female patients.",
@@ -179,7 +179,7 @@
     {
       "type": "strip",
       "id": "co-investors",
-      "tone": "white",
+      "tone": "dark",
       "title": "Selected co-investors",
       "items": [
         {
@@ -243,7 +243,7 @@
       "layout": "tiles",
       "id": "approach",
       "nav": "Approach",
-      "tone": "white",
+      "tone": "light",
       "eyebrow": "How we invest",
       "title": "Where we invest",
       "intro": "Early-stage healthcare companies across the US, Europe and Israel.",
@@ -349,7 +349,7 @@
         }
       },
       "layout": "plain",
-      "tone": "white",
+      "tone": "light",
       "eyebrow": "Contact"
     },
     {
