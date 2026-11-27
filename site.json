@@ -45,25 +45,21 @@
   },
   "theme": {
     "font": "Outfit",
-    "ink": "#2D0018",
-    "accent": "#C4185A",
-    "accent_dark": "#6B0030",
-    "secondary": "#6B0030",
-    "surface": "#FDF0F5",
-    "muted": "#6B3050",
-    "skin": [
-      "bold",
-      "light",
-      "airy"
-    ],
-    "motion": true,
-    "font_axis": "350..900",
+    "ink": "#070548",
+    "accent": "#E90055",
+    "accent_dark": "#C00153",
+    "secondary": "#2C2981",
+    "surface": "#F1F0F6",
+    "muted": "#464646",
+    "skin": [],
+    "motion": false,
+    "font_axis": "300..700",
     "signature": false
   },
   "sections": [
     {
       "type": "hero",
-      "layout": "split",
+      "layout": "cover",
       "id": "top",
       "eyebrow": "Now Raising Fund II",
       "heading": "Specialist venture capital for ==women's health==",
@@ -76,12 +72,13 @@
       "image": "images/hero-duo.jpg",
       "image_alt": "Dr. Anula Jayasuriya and Maria Gajda Horowitz, Founding Managing Partners",
       "tone": "white",
-      "decor": true,
-      "type_eyebrow": true,
+      "decor": false,
+      "type_eyebrow": false,
       "cta2": {
         "label": "Portfolio",
         "href": "#portfolio"
-      }
+      },
+      "background": "images/hero.jpg"
     },
     {
       "type": "text",
@@ -95,9 +92,98 @@
       ]
     },
     {
+      "type": "text",
+      "id": "why-kidron",
+      "tone": "light",
+      "eyebrow": "Our distinction",
+      "title": "Why ==Kidron==",
+      "lead": "We invest in the best businesses — grounded in science, built by teams we know, and supported by a clear commercial plan.",
+      "left": [
+        "We invest early, after taking the time to understand the science and get to know the people behind the business.",
+        "We require board representation for every investment. In our experience, this depth of preparation helps build the foundation for future funding and the company’s ultimate success."
+      ],
+      "aside": [
+        {
+          "tag": "Our foundation",
+          "title": "==Science== we understand",
+          "text": "We evaluate the clinical need, underlying biology, evidence and regulatory pathway."
+        },
+        {
+          "tag": "Our relationships",
+          "title": "==Teams== we know",
+          "text": "We get to know the founders, leadership team, board and co-investors closely, including how they work together."
+        },
+        {
+          "tag": "Our investment discipline",
+          "title": "A ==business== we can back",
+          "text": "We examine how capital needs connect to development milestones, how each milestone will be reached, who will pay for the product, reimbursement and potential acquirers."
+        }
+      ],
+      "nav": "Why Kidron"
+    },
+    {
+      "type": "cards",
+      "layout": "tiles",
+      "id": "approach",
+      "nav": "Approach",
+      "tone": "white",
+      "eyebrow": "How we invest",
+      "title": "Where we invest",
+      "intro": "Early-stage healthcare companies across the US, Europe and Israel.",
+      "items": [
+        {
+          "num": "01",
+          "title": "Women’s health, broadly defined",
+          "text": "Conditions unique to women, diseases that affect women differently, and health needs that disproportionately affect women."
+        },
+        {
+          "num": "02",
+          "title": "Across healthcare",
+          "text": "Medical devices, diagnostics, therapeutics, digital health, healthcare services and consumer health."
+        },
+        {
+          "num": "03",
+          "title": "US · Europe · Israel",
+          "text": "Sourcing opportunities across these healthcare markets through the partners’ networks."
+        }
+      ]
+    },
+    {
+      "type": "strip",
+      "id": "co-investors",
+      "tone": "dark",
+      "title": "Selected co-investors",
+      "items": [
+        {
+          "title": "Sofinnova"
+        },
+        {
+          "title": "Bpifrance"
+        },
+        {
+          "title": "Trill Impact"
+        },
+        {
+          "title": "Abiomed (J&J)"
+        },
+        {
+          "title": "EQT Life Sciences"
+        },
+        {
+          "title": "TX Medical Center"
+        },
+        {
+          "title": "Tri Ventures"
+        },
+        {
+          "title": "MedVenture Health"
+        }
+      ]
+    },
+    {
       "type": "carousel",
-      "layout": "grid",
-      "filter": true,
+      "layout": "carousel",
+      "filter": false,
       "id": "portfolio",
       "nav": "Portfolio",
       "tone": "dark",
@@ -177,97 +263,8 @@
       "filter_counts": false
     },
     {
-      "type": "strip",
-      "id": "co-investors",
-      "tone": "dark",
-      "title": "Selected co-investors",
-      "items": [
-        {
-          "title": "Sofinnova"
-        },
-        {
-          "title": "Bpifrance"
-        },
-        {
-          "title": "Trill Impact"
-        },
-        {
-          "title": "Abiomed (J&J)"
-        },
-        {
-          "title": "EQT Life Sciences"
-        },
-        {
-          "title": "TX Medical Center"
-        },
-        {
-          "title": "Tri Ventures"
-        },
-        {
-          "title": "MedVenture Health"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "id": "why-kidron",
-      "tone": "white",
-      "eyebrow": "Our distinction",
-      "title": "Why ==Kidron==",
-      "lead": "We invest in the best businesses — grounded in science, built by teams we know, and supported by a clear commercial plan.",
-      "left": [
-        "We invest early, after taking the time to understand the science and get to know the people behind the business.",
-        "We require board representation for every investment. In our experience, this depth of preparation helps build the foundation for future funding and the company’s ultimate success."
-      ],
-      "aside": [
-        {
-          "tag": "Our foundation",
-          "title": "==Science== we understand",
-          "text": "We evaluate the clinical need, underlying biology, evidence and regulatory pathway."
-        },
-        {
-          "tag": "Our relationships",
-          "title": "==Teams== we know",
-          "text": "We get to know the founders, leadership team, board and co-investors closely, including how they work together."
-        },
-        {
-          "tag": "Our investment discipline",
-          "title": "A ==business== we can back",
-          "text": "We examine how capital needs connect to development milestones, how each milestone will be reached, who will pay for the product, reimbursement and potential acquirers."
-        }
-      ],
-      "nav": "Why Kidron"
-    },
-    {
-      "type": "cards",
-      "layout": "tiles",
-      "id": "approach",
-      "nav": "Approach",
-      "tone": "light",
-      "eyebrow": "How we invest",
-      "title": "Where we invest",
-      "intro": "Early-stage healthcare companies across the US, Europe and Israel.",
-      "items": [
-        {
-          "num": "01",
-          "title": "Women’s health, broadly defined",
-          "text": "Conditions unique to women, diseases that affect women differently, and health needs that disproportionately affect women."
-        },
-        {
-          "num": "02",
-          "title": "Across healthcare",
-          "text": "Medical devices, diagnostics, therapeutics, digital health, healthcare services and consumer health."
-        },
-        {
-          "num": "03",
-          "title": "US · Europe · Israel",
-          "text": "Sourcing opportunities across these healthcare markets through the partners’ networks."
-        }
-      ]
-    },
-    {
       "type": "people",
-      "layout": "cards",
+      "layout": "dialogs",
       "id": "team",
       "nav": "Team",
       "tone": "white",
@@ -282,7 +279,7 @@
           "credentials": "MD, PhD, MPhil, MBA",
           "role": "Founding Managing Partner",
           "location": "United States · Silicon Valley, Boston",
-          "photo": "images/anula-headshot-watson.jpg",
+          "photo": "images/anula-portrait.jpg",
           "bio": [
             "Anula brings a physician’s understanding of science to venture investing. Her experience includes a former VP role at Roche Pharmaceuticals and founding managing partner roles at EXXclaim Capital and Evolvence India Life Science Fund I and II.",
             "She led investments including nVision Medical, acquired by Boston Scientific. She also co-founded Artemis Women’s Health Foundation and serves as Vice Chair of WHAM.",
@@ -294,7 +291,7 @@
           "credentials": "LLM",
           "role": "Founding Managing Partner",
           "location": "Israel & Europe · Tel Aviv",
-          "photo": "images/maria-headshot-watson.jpg",
+          "photo": "images/maria-portrait.jpg",
           "bio": [
             "Maria has been active in venture capital since 2011. Her experience across Europe and Israel spans fund formation, investment negotiations, healthcare asset acquisitions and private placements.",
             "At Kidron, her work spans portfolio construction, capital strategy and investor relations.",

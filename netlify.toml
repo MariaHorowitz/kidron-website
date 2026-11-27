@@ -1,9 +1,8 @@
-# Kidron Capital website. This repo holds only the content (site.json + images/).
-# The layout comes from the Metanoia site template, fetched at build time from its "stable"
-# branch, so a template update reaches this site on the next build without touching this repo.
-# If a build fails, Netlify keeps the last working version live.
+"$schema" = "https://open-api.netlify.com/netlify.schema.json"
+
+# Build from the website files in Maria’s own repository. No external template.
 [build]
-  command = "rm -rf .template && git clone --depth 1 --branch stable https://github.com/krystof-metanoia-ops/metanoia-site-template.git .template && node .template/build.mjs --content . --out dist"
+  command = "node build.mjs"
   publish = "dist"
 
 [build.environment]
